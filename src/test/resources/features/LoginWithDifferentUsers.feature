@@ -1,4 +1,4 @@
-@wip
+@smoke
 Feature:As a user, I should be able to login with different users using their
   correct emails and passwords. When I login, I should be able to
   see username in the account username section.
